@@ -3,7 +3,8 @@
 data store to repo on scheduled pushes
 
 ## Environment Setup
-Environmental Variable List
+Required Environmental Variables
+
 | Environmental Variable | Description                   |
 |------------------------|-------------------------------|
 | INTERVAL               | Time (seconds) between action |
